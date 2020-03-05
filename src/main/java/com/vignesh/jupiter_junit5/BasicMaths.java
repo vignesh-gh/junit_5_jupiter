@@ -11,4 +11,12 @@ public class BasicMaths {
 		return a-b;
 	}
 	
+	public double findCircleArea(double radius) {
+		return 3.14*radius*radius;
+	}
+	
+	public int divide(int a,int b) {
+		return a/b;
+	}
+	
 }
